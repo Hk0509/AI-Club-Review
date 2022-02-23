@@ -1,0 +1,103 @@
+.navbar-nav {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.nav-item {
+  padding: 0 100px;
+}
+
+.VIT {
+  width: 15%;
+  float: left;
+  margin: 15px 40px;
+}
+
+.aiml {
+  width: 20%;
+  float: right;
+  margin: 15px 40px;
+}
+
+.images {
+  height: 100px;
+}
+
+
+h1 {
+  background-color: #f3ec78;
+  background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+h2{
+  color: #f3ec78;
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 20px auto;
+}
+
+h3{
+  text-align: center;
+  font-size: 1.5rem;
+  color: lightskyblue;
+  margin: 0 auto;
+  width: 70%;
+}
+
+h4,h5{
+  text-align: center;
+  margin: 10px auto;
+}
+
+a{
+  color: snow;
+  text-decoration: none;
+}
+
+a:hover{
+  color:grey;
+}
+
+.line{
+  background-color: white;
+  height: 3px;
+  border-radius: 5px;
+  margin: 50px 10%;
+}
+
+#register{
+  margin:auto;
+  font-weight: 800;
+  transition-duration: 0.4s;
+}
+
+.button {
+  transition-duration: 0.4s;
+  border: 3px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: rgba(38, 182, 248, 0.3); /* Green */
+  color: white;
+  border: 3px solid rgb(247, 247, 247);
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+.margin{
+  margin: 30px;
+}
